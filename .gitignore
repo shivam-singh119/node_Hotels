@@ -1,0 +1,11 @@
+# Ignore node_modules directory
+node_modules/
+.env
+
+
+
+
+
+# git remote add origin https://github.com/shivam-singh119/hotel_api.git
+# git branch -M main
+# git push -u origin main
